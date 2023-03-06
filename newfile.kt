@@ -1,0 +1,1 @@
+// This new file won't create a merge conflict
